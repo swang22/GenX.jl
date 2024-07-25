@@ -1,0 +1,9 @@
+- Generator_variability: Hydro profile in Canada are the same, based emil's data; small hydro uses the run-of-river's profiles; solar use south profile for QC ON, AT use AT NFLD North
+- Gemerators_data: 
+	1. modified the hydro cost based on emil's datam pump dro https://www.hydroreview.com/business-finance/business/nrel-includes-pumped-storage-in-2022-electricity-technology-baseline-report/#gref
+	2. steam turbine https://www.energy.gov/eere/amo/articles/steam-turbines-doe-chp-technology-fact-sheet-series-fact-sheet-2016#:~:text=As%20indicated%2C%20installed%20costs%20for,basis%20declining%20as%20capacity%20increases.
+	3. Modified NG var cost
+	4. Assume biomass is same as coal 
+- Network: 
+- 
+			 

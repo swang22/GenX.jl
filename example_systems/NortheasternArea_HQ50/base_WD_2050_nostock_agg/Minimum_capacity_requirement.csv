@@ -1,0 +1,4 @@
+MinCapReqConstraint,ConstraintDescription,Min_MW
+1,NE_PV,1000
+2,NY_Wind,1000
+3,All_Batteries,1000
